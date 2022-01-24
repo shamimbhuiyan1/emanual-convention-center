@@ -1,3 +1,11 @@
-.buttion-background {
+.button-background {
   background: #f496d1;
+}
+.footer-size {
+  width: 1440px;
+  height: 2080px;
+}
+.footer-button-size {
+  width: 20px;
+  height: 10px;
 }
