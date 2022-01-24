@@ -1,5 +1,13 @@
-.button-background {
-  background: #f496d1;
+.carousel-item-background::before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: black;
+  opacity: 0.7;
 }
 .footer-size {
   width: 1440px;
